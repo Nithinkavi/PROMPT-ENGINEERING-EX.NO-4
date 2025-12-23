@@ -46,7 +46,8 @@ Prompt Size Limitations:
 → Adjust for size: “Give me 10 AI applications at a time.”
 
 # OUTPUT:
-[EX 05.docx](https://github.com/user-attachments/files/24309781/EX.05.docx)
+
+[EX 04.docx](https://github.com/user-attachments/files/24309806/EX.04.docx)
 
 
 # Result: The various types of Prompts are executed successfully with generated the report.
